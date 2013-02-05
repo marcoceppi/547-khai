@@ -1,0 +1,76 @@
+.pl 10.01
+.po 0
+.ll 7.21
+.lt 7.21
+.nr LL 7.21
+.nr LT 7.21
+.ds RF FORMFEED[Page %]
+.ds LH Internet Draft
+.\"  --> Header/footers: Set short title
+.ds CH 547 Khai's Fault
+.ds LF Ceppi, Marco
+.ds RH February 4, 2013
+.ds CF Expires July 2013
+.hy 0
+.ad l
+.nf
+.tl 'Internet Draft''M. Ceppi'
+.tl '<draft-547-http-status.txt>''547 HTTP Status'
+.tl 'Category: Informational''February 4, 2013'
+.tl 'Expires July 2013'''
+
+.ce
+They Hypertext Transfer Protocol (HTTP) Status Code 547
+.ce
+draft-ceppi-http-status-547-01
+
+.in 3
+.ti 0
+Status of this Memo
+
+This memo provides information for the Internet and Khai community.  It does not specify an Internet standard of any kind.  Distribution of this memo is unlimited.
+
+.ti 0
+Copyright Notice
+
+Copyright (C) Marco Ceppi (2013).  All Rights Reserved.  Code Components for this document available under Creative Commons CC-BY.
+
+.ti 0
+Abstract
+
+This document describes the additional HyperText Transfer Protocol (HTTP) Status Code 547 (Khai has broken this).
+
+.ti 0
+1. Introduction
+
+In the beginning there was bacon.
+
+.ti 0
+2. Notational Conventions
+
+KBBQ refers to Korean Barbecue.  Khai is not Korean.
+
+.ti 0
+3.0
+
+Is the new 2.0.  This code will operate in HTTP/1.1 but is recommended for HTTP/3.0.  Grow up.
+
+.ti 0
+4. 547 Khai has broken this
+
+The target resource has encountered an error which it can not blame on the server, the code, or the user.  In this case only Khai is to blame.  This error may indicate a problem with the code but ultimately Khai has broken this request.  The client should initiate the request again. If successive failures occur, continue to blame Khai.
+
+.ti 0
+5. Implementation Consideration
+
+Use in an abundantly conservative manor.
+
+.ti 0
+6. Security Considerations
+
+All security considerations that apply to Khai also apply to this status code.
+
+.ti 0
+7. IANA Considerations
+
+This code should totally be added to the HTTP Status Code Registry.  I doubt it will.
